@@ -5,7 +5,7 @@
 <a href="https://stackoverflow.com/users/17791412/ismet-dailov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ismet dailov" height="30" width="40" /></a>
 <a href="https://fb.com/ismet.dailov.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ismet.dailov.1/" height="30" width="40" /></a>
 <a href="https://instagram.com/ismet dailov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ismet dailov" height="30" width="40" /></a>
-<a href="https://discord.gg/ismet dailov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismet dailov" height="30" width="40" /></a>
+<a href="https://discord.gg/ismet dailov#8884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ismet dailov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
